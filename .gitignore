@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+venv/
+/tests/allure-results
+.pytest_cache
